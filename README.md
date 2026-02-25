@@ -1,2 +1,2 @@
 # projects
-All the projects ive worked on myself
+Projects I have worked on recently
