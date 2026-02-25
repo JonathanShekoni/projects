@@ -67,3 +67,4 @@ while True:
 
 
 #Could implement an auto ult popper or something when low
+#Potentially add a parry that m1's after a block
