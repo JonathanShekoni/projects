@@ -33,8 +33,8 @@ while True:
         #TARGET COLOR(Eg.Itadori red,Gojo blue,Hakari green e.t.c)
         
         #Note: Adjust sensitivity to stop items like red vending machines from triggering autoblock
-        lower = np.array([1, 200, 170])
-        upper = np.array([6, 255, 255])  # Upper HSV bound
+        lower = np.array([0, 240, 230])
+        upper = np.array([3, 255, 255]) # Upper HSV bound
         # =====================================================
 
         mask = cv2.inRange(hsv, lower, upper)
